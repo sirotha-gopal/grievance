@@ -1,0 +1,38 @@
+.registerForm
+            {
+                
+                width: 60%;
+                height: 60%;
+                border:1px solid #f2f2f2;
+                
+            }
+            .form-style-1
+            {
+                margin: 40px 20px;
+                font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+                font-weight: 600;
+            }
+            .form-style-1 input[type=text]:focus,
+            .form-style-1 input[type=password]:focus,
+            .form-style-1 input[type=number]:focus,
+            .form-style-1 textArea:focus,
+            .form-style-1 select:focus
+            {
+                box-shadow: 0 0 8px #88D5E9;
+                border: 1px solid #88D5E9;
+            }
+            
+            .registerForm input[type=text],input[type=password],input[type=number],input[type=submit],textArea,select
+            {
+                margin-bottom: 10px;
+                margin-top: 5px;
+                width: 70%;
+                border:1px solid #BEBEBE;
+                box-sizing: border-box;
+                padding: 2px;
+                font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+                padding: 7px;
+                font-weight: 10;
+            }
+            
+           
