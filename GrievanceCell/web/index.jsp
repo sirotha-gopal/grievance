@@ -425,6 +425,10 @@
                             <h3 class="panel-title">Latest News</h3>
                         </div>
                         <marquee direction="up">
+                            
+                            <div class="panel-body">
+                                This is the change I made.
+                            </div>
                             <div class="panel-body">
                                 Motivation is basically motivating the employees to work in
                                 favour of their workplace to increase productivity of both
